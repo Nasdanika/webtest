@@ -24,6 +24,10 @@
          id="org.nasdanika.cdo.feature"
          version="0.0.0"/>
 
+   <includes
+         id="org.nasdanika.webtest.model.feature"
+         version="0.0.0"/>
+
    <plugin
          id="org.nasdanika.webtest"
          download-size="0"
@@ -52,13 +56,6 @@
 
    <plugin
          id="org.apache.commons.lang3"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.nasdanika.webtest.model"
          download-size="0"
          install-size="0"
          version="0.0.0"
