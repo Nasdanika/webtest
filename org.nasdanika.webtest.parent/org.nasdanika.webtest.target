@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="org.nasdanika.webtest" sequenceNumber="2">
+<locations>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.nasdanika.feature.feature.group" version="0.1.0.201701040104"/>
+<unit id="org.nasdanika.cdo.feature.feature.group" version="0.1.0.201701040104"/>
+<unit id="org.nasdanika.equinox.feature.feature.group" version="0.1.0.201701040104"/>
+<repository location="http://www.nasdanika.org/server/repository"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.nasdanika.webtest.model.feature.feature.group" version="0.1.0.201612312039"/>
+<repository location="http://www.nasdanika.org/products/webtest-model/repository"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.nasdanika.third-party.feature.feature.group" version="0.1.0.201607160329"/>
+<repository location="http://www.nasdanika.org/third-party/org.nasdanika.third-party.repository/target/repository"/>
+</location>
+</locations>
+</target>
