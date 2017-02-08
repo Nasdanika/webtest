@@ -3,9 +3,9 @@
    <feature url="features/org.nasdanika.webtest.feature_0.1.0.qualifier.jar" id="org.nasdanika.webtest.feature" version="0.1.0.qualifier">
       <category name="org.nasdanika.runtime"/>
    </feature>
-   <category-def name="org.nasdanika.runtime" label="Runtime Bundles">
+   <category-def name="org.nasdanika.runtime" label="Runtime bundles">
       <description>
-         Runtime bundles.
+         Bundles and features for building OSGi/Equinox server applications.
       </description>
    </category-def>
 </site>
